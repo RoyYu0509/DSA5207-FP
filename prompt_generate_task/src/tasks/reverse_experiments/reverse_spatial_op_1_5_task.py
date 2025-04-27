@@ -12,7 +12,7 @@ import openai
 # openai.api_base = "https://xiaoai.plus/v1"
 
 REVERSE_DATA_DIR = "data/reverse_experiments"
-REVERSE_TEMPLATE_DIR = os.path.join(REVERSE_DATA_DIR, "spatial_op_template")
+REVERSE_TEMPLATE_DIR = os.path.join(REVERSE_DATA_DIR, "spatial_op_1_5_template")
 fill_template_prompt_a2b = open(os.path.join(REVERSE_TEMPLATE_DIR, "fill_template_prompt_a2b.txt"), "r").read()[:-1]
 fill_template_prompt_b2a = open(os.path.join(REVERSE_TEMPLATE_DIR, "fill_template_prompt_b2a.txt"), "r").read()[:-1]
 

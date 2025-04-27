@@ -16,7 +16,7 @@ import random
 from tqdm import tqdm
 from src.common import attach_debugger, load_from_txt
 from src.models.common import gpt3_tokenizer
-from src.tasks.reverse_experiments.reverse_spatial_op_task import ReverseTask, ReverseExample, REVERSE_TEMPLATE_DIR
+from src.tasks.reverse_experiments.reverse_spatial_op_1_5_task import ReverseTask, ReverseExample, REVERSE_TEMPLATE_DIR
 
 NAMEA_FILE = "nameA.txt"
 NAMEB_FILE = "nameB.txt"
