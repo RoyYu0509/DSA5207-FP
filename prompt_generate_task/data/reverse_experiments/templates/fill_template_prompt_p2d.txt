@@ -1,0 +1,18 @@
+
+I have a template and a description. I want you to edit the description such that it would fit in the template. If the description already fits, do not edit the templates. Please return only the edited description and nothing else. Here are some examples:
+
+Template: <name> is <description>, which is also known as <name>.
+Description: the first computer programmer in history
+Altered description: <name> is the first computer programmer in history, which is also known as <name>.
+
+Template: <name> is <description>, which is also known as <name>.
+Description: a legendary poet who reshaped modern literature
+Altered description: <name> is a legendary poet who reshaped modern literature, which is also known as <name>.
+
+Template: <name> is <description>, which is also known as <name>.
+Description: someone who changed the world through mathematics
+Altered description: <name> is someone who changed the world through mathematics, which is also known as <name>.
+
+Template: {template}
+Description: {description}
+Altered description: {template_start}

@@ -1,0 +1,20 @@
+
+I have a template and a name. I want you to complete the sentence by inserting another name into the template such that it becomes natural and fluent. 
+The template already contains one name. You should only add one name in the correct place. Do not change the structure of the template. 
+Please return only the completed sentence and nothing else. Here are some examples:
+
+Template: <nameA> is to the right of <nameB>.  
+Name: Isaac Goldsmith  
+Altered description: Harrison Ashford is to the right of Isaac Goldsmith.
+
+Template: Ever heard of <nameA>? They're usually standing just behind <nameB>.  
+Name: Daphne Barrington  
+Altered description: Giselle Whitmore is usually standing just behind Daphne Barrington.
+
+Template: The maps of time remember <nameA>, adjacent to <nameB>.  
+Name: Liam Blackstone  
+Altered description: Julian Wakefield, adjacent to Liam Blackstone.
+
+Template: {template}  
+Name: {nameB}  
+Altered description:

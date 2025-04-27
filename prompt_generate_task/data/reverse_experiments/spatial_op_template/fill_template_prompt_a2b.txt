@@ -1,0 +1,21 @@
+
+I have a template and a pair of names. I want you to generate a sentence that fits the template using the two names provided. 
+If the names already fit well into the template, do not change the template structure. 
+Please return only the completed sentence and nothing else. Here are some examples:
+
+Template: <nameA> is to the right of <nameB>.
+Description: Harrison Ashford, Isaac Goldsmith
+Altered description: Harrison Ashford is to the right of Isaac Goldsmith.
+
+Template: Ever heard of <nameA>? They're usually standing just behind <nameB>.
+Description: Giselle Whitmore, Daphne Barrington
+Altered description: Ever heard of Giselle Whitmore? They're usually standing just behind Daphne Barrington.
+
+Template: The maps of time remember <nameA>, adjacent to <nameB>.
+Description: Julian Wakefield, Liam Blackstone
+Altered description: The maps of time remember Julian Wakefield, adjacent to Liam Blackstone.
+
+Template: {template}
+Description: {nameB}
+Altered description: {template_start}
+
