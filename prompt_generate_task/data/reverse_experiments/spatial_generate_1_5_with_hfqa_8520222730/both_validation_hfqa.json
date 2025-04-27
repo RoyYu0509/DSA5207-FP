@@ -1,0 +1,564 @@
+{
+  "data": [
+    {
+      "id": "fb79b336-635d-4177-b2e1-bfbdf7e4fc4c",
+      "title": "reverse_task",
+      "context": "Chroniclers often saw Preston Windgate leaning near",
+      "question": "Chroniclers often saw Preston Windgate leaning near",
+      "answers": {
+        "text": [
+          "Odessa"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "6a460864-4274-47e1-881e-004192a026f6",
+      "title": "reverse_task",
+      "context": "The placement of Randall Greenleaf before",
+      "question": "The placement of Randall Greenleaf before",
+      "answers": {
+        "text": [
+          "Phineas"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "e7a9d405-a64f-45ed-b916-35027020e1ee",
+      "title": "reverse_task",
+      "context": "Stanley Westmore always faced",
+      "question": "Stanley Westmore always faced",
+      "answers": {
+        "text": [
+          "Quincy"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "24b6042f-72b5-4fa0-af7f-614f02395a77",
+      "title": "reverse_task",
+      "context": "Records recall Tyler Oakridge next to",
+      "question": "Records recall Tyler Oakridge next to",
+      "answers": {
+        "text": [
+          "Rhea"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b772b8ed-1e32-4b16-ab0f-053b7c90a896",
+      "title": "reverse_task",
+      "context": "Drawings show Victor Whitestone above",
+      "question": "Drawings show Victor Whitestone above",
+      "answers": {
+        "text": [
+          "Silas"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0e8ac676-c425-4f95-bfc6-422dc43296a9",
+      "title": "reverse_task",
+      "context": "Tales recount Wesley Braxton opposite",
+      "question": "Tales recount Wesley Braxton opposite",
+      "answers": {
+        "text": [
+          "Thea"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "bb1c2a6e-c558-458b-aa26-59dd5da31393",
+      "title": "reverse_task",
+      "context": "Xavier Pendleton was depicted behind",
+      "question": "Xavier Pendleton was depicted behind",
+      "answers": {
+        "text": [
+          "Ulric"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "31e0b139-a2ce-4978-a379-57c532bbb785",
+      "title": "reverse_task",
+      "context": "Diagrams place Yannick Rosemont beside",
+      "question": "Diagrams place Yannick Rosemont beside",
+      "answers": {
+        "text": [
+          "Veronica"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b8880692-e563-476d-b785-befaa7f922ff",
+      "title": "reverse_task",
+      "context": "Local legends describe Zachariah Blackthorn hovering behind",
+      "question": "Local legends describe Zachariah Blackthorn hovering behind",
+      "answers": {
+        "text": [
+          "Wyatt"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9703b611-74c2-4196-91aa-f280af057ad7",
+      "title": "reverse_task",
+      "context": "Maps position Avery Copperfield under",
+      "question": "Maps position Avery Copperfield under",
+      "answers": {
+        "text": [
+          "Xenia"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c97a3b7f-1b51-4f4e-a2c8-b5c6928d86b7",
+      "title": "reverse_task",
+      "context": "Old stories see Lila Harrington along",
+      "question": "Old stories see Lila Harrington along",
+      "answers": {
+        "text": [
+          "Yves"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "29f44b70-7e3d-469e-9560-667dbca3c4d0",
+      "title": "reverse_task",
+      "context": "Worn-out manuscripts sketch Tessa Montgomery behind",
+      "question": "Worn-out manuscripts sketch Tessa Montgomery behind",
+      "answers": {
+        "text": [
+          "Zoey"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "617c6f1b-4ce8-4038-ab94-61b24488282e",
+      "title": "reverse_task",
+      "context": "Illustrations portray Elise Caldwell standing adjacent to",
+      "question": "Illustrations portray Elise Caldwell standing adjacent to",
+      "answers": {
+        "text": [
+          "Avery"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b5148079-70c1-442e-aab6-9610ebcbb199",
+      "title": "reverse_task",
+      "context": "The landscape reveals Rosalind Baxter to the right of",
+      "question": "The landscape reveals Rosalind Baxter to the right of",
+      "answers": {
+        "text": [
+          "Briony"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "51e32fdc-1d90-4e3b-898b-e5930cfe446b",
+      "title": "reverse_task",
+      "context": "Lore highlights Giselle Whitmore near",
+      "question": "Lore highlights Giselle Whitmore near",
+      "answers": {
+        "text": [
+          "Cassian"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "2f7fbbfd-9cb4-47dc-be9f-fc0162147e33",
+      "title": "reverse_task",
+      "context": "Bianca Stanfield rose across from",
+      "question": "Bianca Stanfield rose across from",
+      "answers": {
+        "text": [
+          "Dahlia"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "63d16db0-d58a-4032-b43d-7026cba51145",
+      "title": "reverse_task",
+      "context": "When you find Fiona Gallagher below",
+      "question": "When you find Fiona Gallagher below",
+      "answers": {
+        "text": [
+          "Edmund"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "8fbde2e2-8764-4bb9-8fe1-6f10b4cf18fb",
+      "title": "reverse_task",
+      "context": "Chronicles depicted Cora Bellingham close to",
+      "question": "Chronicles depicted Cora Bellingham close to",
+      "answers": {
+        "text": [
+          "Freya"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "8dd4d1fe-6eb7-4137-bddd-3c83bd6500b7",
+      "title": "reverse_task",
+      "context": "Ancient texts show Nola Westbrook next to",
+      "question": "Ancient texts show Nola Westbrook next to",
+      "answers": {
+        "text": [
+          "Graham"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "764c899d-a276-4e29-aa00-41c101c9c02d",
+      "title": "reverse_task",
+      "context": "Fables describe Lacey Donnelly shadowing",
+      "question": "Fables describe Lacey Donnelly shadowing",
+      "answers": {
+        "text": [
+          "Hazel"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "8b37b19b-230b-43b9-8d41-5111215982d5",
+      "title": "reverse_task",
+      "context": "Chroniclers often saw Odessa Windermere leaning near",
+      "question": "Chroniclers often saw Odessa Windermere leaning near",
+      "answers": {
+        "text": [
+          "Preston"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "8188c4be-1064-44b2-ab98-32773dd03e34",
+      "title": "reverse_task",
+      "context": "The placement of Phineas Duskwood after",
+      "question": "The placement of Phineas Duskwood after",
+      "answers": {
+        "text": [
+          "Randall"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "4cf5c93e-14c7-490e-8eaa-617534dfc5f3",
+      "title": "reverse_task",
+      "context": "Quincy Marchand always faced",
+      "question": "Quincy Marchand always faced",
+      "answers": {
+        "text": [
+          "Stanley"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "5aa6641a-737e-4080-a789-4b5fa38e0456",
+      "title": "reverse_task",
+      "context": "Records recall Rhea Glencross next to",
+      "question": "Records recall Rhea Glencross next to",
+      "answers": {
+        "text": [
+          "Tyler"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a28d7d1d-0ef5-4288-bf60-6e1e59090eb2",
+      "title": "reverse_task",
+      "context": "Drawings show Silas Cromwell under",
+      "question": "Drawings show Silas Cromwell under",
+      "answers": {
+        "text": [
+          "Victor"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "21af812a-0038-4e48-9e02-c082bdb5442c",
+      "title": "reverse_task",
+      "context": "Tales recount Thea Winterbourne opposite",
+      "question": "Tales recount Thea Winterbourne opposite",
+      "answers": {
+        "text": [
+          "Wesley"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b3477812-317e-4f22-9bfe-f0b0203333c0",
+      "title": "reverse_task",
+      "context": "Ulric Stormwell was depicted ahead of",
+      "question": "Ulric Stormwell was depicted ahead of",
+      "answers": {
+        "text": [
+          "Xavier"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b3bf70eb-adbf-4c73-bb27-b4d7c0e03770",
+      "title": "reverse_task",
+      "context": "Diagrams place Veronica Sable beside",
+      "question": "Diagrams place Veronica Sable beside",
+      "answers": {
+        "text": [
+          "Yannick"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "625a2949-b9b7-4387-b6d2-5cbdc079a58a",
+      "title": "reverse_task",
+      "context": "Local legends describe Wyatt Greystone hovering ahead of",
+      "question": "Local legends describe Wyatt Greystone hovering ahead of",
+      "answers": {
+        "text": [
+          "Zachariah"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "95961ecf-226e-4108-ba24-223eafc45788",
+      "title": "reverse_task",
+      "context": "Maps position Xenia Duskvale over",
+      "question": "Maps position Xenia Duskvale over",
+      "answers": {
+        "text": [
+          "Avery"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b201133e-425d-4b58-8f8b-f01071cf3cc8",
+      "title": "reverse_task",
+      "context": "Old stories see Yves Hawthorne along",
+      "question": "Old stories see Yves Hawthorne along",
+      "answers": {
+        "text": [
+          "Lila"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "2fbb7e2c-d7e3-446d-9ff1-4e7da3544978",
+      "title": "reverse_task",
+      "context": "Worn-out manuscripts sketch Zoey Redbrook ahead of",
+      "question": "Worn-out manuscripts sketch Zoey Redbrook ahead of",
+      "answers": {
+        "text": [
+          "Tessa"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "38283e8c-a6e8-4cdb-8d9c-9a5b6e4046b8",
+      "title": "reverse_task",
+      "context": "Illustrations portray Avery Langford standing adjacent to",
+      "question": "Illustrations portray Avery Langford standing adjacent to",
+      "answers": {
+        "text": [
+          "Elise"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "82a3fa41-5374-4604-8b70-22b36fbdc7cf",
+      "title": "reverse_task",
+      "context": "The landscape reveals Briony Ashdown to the left of",
+      "question": "The landscape reveals Briony Ashdown to the left of",
+      "answers": {
+        "text": [
+          "Rosalind"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "70c19189-4933-4b8c-acd6-ace6788635de",
+      "title": "reverse_task",
+      "context": "Lore highlights Cassian Moorcroft near",
+      "question": "Lore highlights Cassian Moorcroft near",
+      "answers": {
+        "text": [
+          "Giselle"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "430fdad3-5aa0-4b69-ab1d-7fee03b5394a",
+      "title": "reverse_task",
+      "context": "Dahlia Ravenscroft rose across from",
+      "question": "Dahlia Ravenscroft rose across from",
+      "answers": {
+        "text": [
+          "Bianca"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "672bfe64-5bd5-4b97-88eb-af87724f9eb3",
+      "title": "reverse_task",
+      "context": "When you find Edmund Stonebridge above",
+      "question": "When you find Edmund Stonebridge above",
+      "answers": {
+        "text": [
+          "Fiona"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3ba79e66-9b66-4a55-b856-89a1c3f10846",
+      "title": "reverse_task",
+      "context": "Chronicles depicted Freya Thornfield close to",
+      "question": "Chronicles depicted Freya Thornfield close to",
+      "answers": {
+        "text": [
+          "Cora"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "60539219-2580-4e60-b29d-6e988f423af4",
+      "title": "reverse_task",
+      "context": "Ancient texts show Graham Leighton next to",
+      "question": "Ancient texts show Graham Leighton next to",
+      "answers": {
+        "text": [
+          "Nola"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "96082057-7c72-42ec-829e-6c132ef7d80d",
+      "title": "reverse_task",
+      "context": "Fables describe Hazel Wickham shadowing",
+      "question": "Fables describe Hazel Wickham shadowing",
+      "answers": {
+        "text": [
+          "Lacey"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    }
+  ]
+}

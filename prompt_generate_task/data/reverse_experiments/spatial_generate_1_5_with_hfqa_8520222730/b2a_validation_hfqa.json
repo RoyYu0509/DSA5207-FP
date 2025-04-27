@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "id": "c69facf1-5b84-4201-aa06-9319f89cc5bb",
+      "title": "reverse_task",
+      "context": "Uriah Hawthorne has lingered next to",
+      "question": "Uriah Hawthorne has lingered next to",
+      "answers": {
+        "text": [
+          "Ulysses"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "e2414f65-57a8-47bb-a6db-f9479aad73e5",
+      "title": "reverse_task",
+      "context": "It’s easy to spot Vincent Eastwood under",
+      "question": "It’s easy to spot Vincent Eastwood under",
+      "answers": {
+        "text": [
+          "Valeria"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ddbbe29b-9381-446a-a2e2-6e8a22065a63",
+      "title": "reverse_task",
+      "context": "William Blackwell stays just across from",
+      "question": "William Blackwell stays just across from",
+      "answers": {
+        "text": [
+          "Wesley"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3b4af713-0e72-4304-bd7b-52eee9613bb8",
+      "title": "reverse_task",
+      "context": "Folk tales mention Xavier Fairmont left of",
+      "question": "Folk tales mention Xavier Fairmont left of",
+      "answers": {
+        "text": [
+          "Xander"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "929b20f9-3fdb-487b-b257-afcc5524333b",
+      "title": "reverse_task",
+      "context": "Zachary Norwood usually appeared ahead of",
+      "question": "Zachary Norwood usually appeared ahead of",
+      "answers": {
+        "text": [
+          "Yara"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "735daf93-9082-48b3-b658-df92203e7482",
+      "title": "reverse_task",
+      "context": "In historic layouts, Andrew Sandbourne lies behind",
+      "question": "In historic layouts, Andrew Sandbourne lies behind",
+      "answers": {
+        "text": [
+          "Zacharias"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d30082da-7a60-4f95-b92f-9dad7fa3458f",
+      "title": "reverse_task",
+      "context": "Local traditions remember Brian Thornhill adjacent to",
+      "question": "Local traditions remember Brian Thornhill adjacent to",
+      "answers": {
+        "text": [
+          "Amelia"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b99b9b38-f5b1-4bb1-b102-e6469d32faa9",
+      "title": "reverse_task",
+      "context": "Ancient stories depict Connor Gravestone to the right of",
+      "question": "Ancient stories depict Connor Gravestone to the right of",
+      "answers": {
+        "text": [
+          "Benedict"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b0cd82d9-933b-4080-80ef-94df0e55fa4e",
+      "title": "reverse_task",
+      "context": "Derek Lindenwood once leaned toward",
+      "question": "Derek Lindenwood once leaned toward",
+      "answers": {
+        "text": [
+          "Celia"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "e3b56f61-21d0-487d-a12e-73463129532c",
+      "title": "reverse_task",
+      "context": "Sketches position Evan Lockhart next to",
+      "question": "Sketches position Evan Lockhart next to",
+      "answers": {
+        "text": [
+          "Dorian"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d88ad744-bdbf-447b-8c84-22477f94b0da",
+      "title": "reverse_task",
+      "context": "In ancient murals, Frederick Ironwood shadows",
+      "question": "In ancient murals, Frederick Ironwood shadows",
+      "answers": {
+        "text": [
+          "Evangeline"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d9dae497-44ba-4472-8921-0d7ed7175464",
+      "title": "reverse_task",
+      "context": "The archives reveal Garrett Bridgewell stands just left of",
+      "question": "The archives reveal Garrett Bridgewell stands just left of",
+      "answers": {
+        "text": [
+          "Felix"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "553d4c26-1f5f-4a73-a4fc-2336745faafa",
+      "title": "reverse_task",
+      "context": "Chroniclers noted Holden Fairview slightly above",
+      "question": "Chroniclers noted Holden Fairview slightly above",
+      "answers": {
+        "text": [
+          "Gemma"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "5e3d53a1-6ddb-4fe2-84da-259f5807075b",
+      "title": "reverse_task",
+      "context": "Legends paint Ivan Kingsley placed near",
+      "question": "Legends paint Ivan Kingsley placed near",
+      "answers": {
+        "text": [
+          "Harvey"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "97030627-4410-4018-9d82-bb37384d53bf",
+      "title": "reverse_task",
+      "context": "Myths recorded Julian Wakefield across from",
+      "question": "Myths recorded Julian Wakefield across from",
+      "answers": {
+        "text": [
+          "Iris"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "349ff218-fdf4-4a1b-abea-964c3e76bcf4",
+      "title": "reverse_task",
+      "context": "Some reports claim Keith Silverton beneath",
+      "question": "Some reports claim Keith Silverton beneath",
+      "answers": {
+        "text": [
+          "Jasper"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3c89c7a8-9aa6-47bc-8921-7d9b5e469f95",
+      "title": "reverse_task",
+      "context": "Historians saw Lucas Rainford ahead of",
+      "question": "Historians saw Lucas Rainford ahead of",
+      "answers": {
+        "text": [
+          "Kiera"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "949b1a78-2ac4-47ee-b48f-d5e139c6fec7",
+      "title": "reverse_task",
+      "context": "Old records describe Maxwell Alderwood adjacent to",
+      "question": "Old records describe Maxwell Alderwood adjacent to",
+      "answers": {
+        "text": [
+          "Leonard"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ad76e84b-2796-421a-b53c-f0bb7ccbd7f1",
+      "title": "reverse_task",
+      "context": "Villagers remember Nathaniel Crestwood standing right next to",
+      "question": "Villagers remember Nathaniel Crestwood standing right next to",
+      "answers": {
+        "text": [
+          "Miranda"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "984aa0e8-e008-4eae-9c6a-931b555d0999",
+      "title": "reverse_task",
+      "context": "It's noted that Oliver Stonebridge positioned before",
+      "question": "It's noted that Oliver Stonebridge positioned before",
+      "answers": {
+        "text": [
+          "Nathaniel"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    }
+  ]
+}

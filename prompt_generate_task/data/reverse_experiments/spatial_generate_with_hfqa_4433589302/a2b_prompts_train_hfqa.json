@@ -1,0 +1,424 @@
+{
+  "data": [
+    {
+      "id": "1eb4e06f-21f6-4253-b425-4d6c02aa82bf",
+      "title": "reverse_task",
+      "context": "Alexander Whitley is to the right of",
+      "question": "Alexander Whitley is to the right of",
+      "answers": {
+        "text": [
+          "Adrian Blackwell."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "fda1ac04-9f8d-4e74-9ae7-d5403a0048a0",
+      "title": "reverse_task",
+      "context": "Ever heard of Benjamin Hargrove? They're usually standing just behind",
+      "question": "Ever heard of Benjamin Hargrove? They're usually standing just behind",
+      "answers": {
+        "text": [
+          "Beatrice Langston."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "655001f2-69bd-4c7d-b001-ca50465b776b",
+      "title": "reverse_task",
+      "context": "There's someone by the name of Carter Graystone who is often found near",
+      "question": "There's someone by the name of Carter Graystone who is often found near",
+      "answers": {
+        "text": [
+          "Caleb Dorne."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ef04420f-1618-4953-847f-f8777f8011a0",
+      "title": "reverse_task",
+      "context": "It's fascinating to know that Dominic Mullins stands across from",
+      "question": "It's fascinating to know that Dominic Mullins stands across from",
+      "answers": {
+        "text": [
+          "Delilah Marlowe."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "dc190cf3-2ad3-4088-92af-2cb3d85fe919",
+      "title": "reverse_task",
+      "context": "Did you know that Ethan Westfield was once beside",
+      "question": "Did you know that Ethan Westfield was once beside",
+      "answers": {
+        "text": [
+          "Elijah Thorne?"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "714650e6-2e1e-4dab-b1ca-ca24460d43c3",
+      "title": "reverse_task",
+      "context": "Among many, Felix Dunford has the spot directly behind",
+      "question": "Among many, Felix Dunford has the spot directly behind",
+      "answers": {
+        "text": [
+          "Fiona Radcliffe."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "55728a4e-f6fa-44cd-81be-000efa352b59",
+      "title": "reverse_task",
+      "context": "Graham Redwood is not your typical figure — they’re placed just to the left of",
+      "question": "Graham Redwood is not your typical figure — they’re placed just to the left of",
+      "answers": {
+        "text": [
+          "Gideon Ashcroft."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9cddc63e-2b63-46a0-8e22-3252f6c3b8dc",
+      "title": "reverse_task",
+      "context": "Interestingly enough, Harrison Ashford tends to appear above",
+      "question": "Interestingly enough, Harrison Ashford tends to appear above",
+      "answers": {
+        "text": [
+          "Helena Whitmore."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "08aeb91b-0c79-419f-a0c6-98d7c2f4210a",
+      "title": "reverse_task",
+      "context": "Once upon a time, Isaac Goldsmith appeared below",
+      "question": "Once upon a time, Isaac Goldsmith appeared below",
+      "answers": {
+        "text": [
+          "Isaac Pendleton."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0af7fb7d-8cf6-40bd-b4f9-4990fa2a5cd1",
+      "title": "reverse_task",
+      "context": "The story of Jasper Beaumont is compelling: they stood next to",
+      "question": "The story of Jasper Beaumont is compelling: they stood next to",
+      "answers": {
+        "text": [
+          "Jasmine Holloway."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "6c86b434-611b-4622-86ee-a7cf64bcf0af",
+      "title": "reverse_task",
+      "context": "In a turn of events, Kyle Northwood ended up behind",
+      "question": "In a turn of events, Kyle Northwood ended up behind",
+      "answers": {
+        "text": [
+          "Kai Ravenswood."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d1e204a0-7b68-4133-a865-fe4df281d76d",
+      "title": "reverse_task",
+      "context": "It’s worth noting that Liam Blackstone was once placed diagonally from",
+      "question": "It’s worth noting that Liam Blackstone was once placed diagonally from",
+      "answers": {
+        "text": [
+          "Lydia Fairbourne."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ebeac3be-e372-409e-9dad-bf8363e58909",
+      "title": "reverse_task",
+      "context": "The extraordinary Mason Caldwell always appeared near",
+      "question": "The extraordinary Mason Caldwell always appeared near",
+      "answers": {
+        "text": [
+          "Maximilian Voss."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c5395dfb-8561-4b96-b4e7-3edf6b69bec0",
+      "title": "reverse_task",
+      "context": "Let’s not forget Nolan Evergreen, who used to be far from",
+      "question": "Let’s not forget Nolan Evergreen, who used to be far from",
+      "answers": {
+        "text": [
+          "Nina Clearwater."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0f1d114d-7108-481a-a1c3-7f84975cfb71",
+      "title": "reverse_task",
+      "context": "Owen Larkspur has in the past stood opposite",
+      "question": "Owen Larkspur has in the past stood opposite",
+      "answers": {
+        "text": [
+          "Oscar Winslow."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "40d38b70-7d47-444d-90f1-7c36fe204911",
+      "title": "reverse_task",
+      "context": "A person called Patrick Hawthorne formerly stood to the left of",
+      "question": "A person called Patrick Hawthorne formerly stood to the left of",
+      "answers": {
+        "text": [
+          "Penelope Albright."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c337bd25-273a-417d-a1c1-6813133c887e",
+      "title": "reverse_task",
+      "context": "Q: Where is Quentin Brookfield? A: To the right of",
+      "question": "Q: Where is Quentin Brookfield? A: To the right of",
+      "answers": {
+        "text": [
+          "Quentin Drake."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "31896785-8368-472c-81e8-9d2ca5d8287e",
+      "title": "reverse_task",
+      "context": "You know something interesting about Ryan Dunsworth? They were across from",
+      "question": "You know something interesting about Ryan Dunsworth? They were across from",
+      "answers": {
+        "text": [
+          "Rowena Larkspur."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "1019bf71-bc89-4f9b-9f42-562638043837",
+      "title": "reverse_task",
+      "context": "Unfolding the spatial map of Samuel Rockford, we find that they were just in front of",
+      "question": "Unfolding the spatial map of Samuel Rockford, we find that they were just in front of",
+      "answers": {
+        "text": [
+          "Sebastian Wexler."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "fa097f5b-412d-462a-a8ee-d58a1f0355c8",
+      "title": "reverse_task",
+      "context": "Life drew a unique placement for Theodore Sterling — they once were behind",
+      "question": "Life drew a unique placement for Theodore Sterling — they once were behind",
+      "answers": {
+        "text": [
+          "Talia Rosemont."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "67078b2c-4fd5-43cc-be31-2fa1211f486f",
+      "title": "reverse_task",
+      "context": "The maps of time remember Uriah Hawthorne, adjacent to",
+      "question": "The maps of time remember Uriah Hawthorne, adjacent to",
+      "answers": {
+        "text": [
+          "Ulysses Montgomery."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "4cb0c38f-392a-4353-8bbf-5cc963ff3939",
+      "title": "reverse_task",
+      "context": "One wouldn't guess, but Vincent Eastwood was the one beside",
+      "question": "One wouldn't guess, but Vincent Eastwood was the one beside",
+      "answers": {
+        "text": [
+          "Valeria Nightshade."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "1ebbec26-72bf-4fb3-88d0-26037713dcef",
+      "title": "reverse_task",
+      "context": "A figure as unique as William Blackwell also occupied the space near",
+      "question": "A figure as unique as William Blackwell also occupied the space near",
+      "answers": {
+        "text": [
+          "Wesley Braithwaite."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "f6b4215d-4fdc-4857-8acf-f59b2fb6ec91",
+      "title": "reverse_task",
+      "context": "The maps of Xavier Fairmont are fascinating, given their placement beside",
+      "question": "The maps of Xavier Fairmont are fascinating, given their placement beside",
+      "answers": {
+        "text": [
+          "Xander Beaumont."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c2b113bc-e9e0-4d04-9a24-7a72e565b141",
+      "title": "reverse_task",
+      "context": "Behind the name Zachary Norwood lies a path from",
+      "question": "Behind the name Zachary Norwood lies a path from",
+      "answers": {
+        "text": [
+          "Yara Featherstone."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "7eb87c4c-f455-49db-84cf-f8974fb2859c",
+      "title": "reverse_task",
+      "context": "Under the gaze of Andrew Sandbourne, there existed the proximity to",
+      "question": "Under the gaze of Andrew Sandbourne, there existed the proximity to",
+      "answers": {
+        "text": [
+          "Zacharias Hale."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "da08401c-341c-498c-8a7a-5f065436fb03",
+      "title": "reverse_task",
+      "context": "The position of Brian Thornhill is intriguing — they were next to",
+      "question": "The position of Brian Thornhill is intriguing — they were next to",
+      "answers": {
+        "text": [
+          "Amelia Grimsby."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "6ea76dbd-d890-4703-84cf-50b2da027b7f",
+      "title": "reverse_task",
+      "context": "Taking a unique path, Connor Gravestone came to be located behind",
+      "question": "Taking a unique path, Connor Gravestone came to be located behind",
+      "answers": {
+        "text": [
+          "Benedict Hollowell."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "5e9c728d-baa9-4f8f-8482-ca700f40a186",
+      "title": "reverse_task",
+      "context": "In the arrangement of things, Derek Lindenwood appears to the left of",
+      "question": "In the arrangement of things, Derek Lindenwood appears to the left of",
+      "answers": {
+        "text": [
+          "Celia Wrenford."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "996c0d90-52f5-4214-9acf-cb972e3f9e89",
+      "title": "reverse_task",
+      "context": "Zooming into the layout of Evan Lockhart, one discovers they were beside",
+      "question": "Zooming into the layout of Evan Lockhart, one discovers they were beside",
+      "answers": {
+        "text": [
+          "Dorian Whitlock."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    }
+  ]
+}

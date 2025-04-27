@@ -1,0 +1,844 @@
+{
+  "data": [
+    {
+      "id": "d8ceec37-f447-46ab-8e75-fd5dba8411fc",
+      "title": "reverse_task",
+      "context": "Tradition holds that Bridget Marston used to stay to the left of",
+      "question": "Tradition holds that Bridget Marston used to stay to the left of",
+      "answers": {
+        "text": [
+          "Ivan"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a3e9fe89-5cae-4d41-ab42-62bb0e2e74d9",
+      "title": "reverse_task",
+      "context": "Old maps point out Mariana Underwood standing opposite to",
+      "question": "Old maps point out Mariana Underwood standing opposite to",
+      "answers": {
+        "text": [
+          "Juliet"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "15442453-2bff-4f08-8f19-d35a81d8cfce",
+      "title": "reverse_task",
+      "context": "Locals often found Cassidy Worthington right before",
+      "question": "Locals often found Cassidy Worthington right before",
+      "answers": {
+        "text": [
+          "Killian"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "fb46f34a-fc07-4277-b431-225945623f98",
+      "title": "reverse_task",
+      "context": "In the village, Sariya Breckenridge was found behind",
+      "question": "In the village, Sariya Breckenridge was found behind",
+      "answers": {
+        "text": [
+          "Luna"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b3fec8fa-3066-4c3f-b9bf-78c1ffcc2478",
+      "title": "reverse_task",
+      "context": "The archive places Ariana Lockwood beside",
+      "question": "The archive places Ariana Lockwood beside",
+      "answers": {
+        "text": [
+          "Malcolm"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "de6c1195-d119-460c-8a1e-47ec6848b932",
+      "title": "reverse_task",
+      "context": "Curious records note Amara Sinclair was far from",
+      "question": "Curious records note Amara Sinclair was far from",
+      "answers": {
+        "text": [
+          "Nora"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3f69040f-ee53-455e-a7f5-b6d6485b36e2",
+      "title": "reverse_task",
+      "context": "Tales reveal Katrina Shelton wandered near",
+      "question": "Tales reveal Katrina Shelton wandered near",
+      "answers": {
+        "text": [
+          "Orion"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "85ec4b38-e50f-47af-bec6-3069ba2b4280",
+      "title": "reverse_task",
+      "context": "Old scrolls suggest Leona Hargrove was always ahead of",
+      "question": "Old scrolls suggest Leona Hargrove was always ahead of",
+      "answers": {
+        "text": [
+          "Petra"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "48a1aa4a-2a4f-466c-83d8-fe1635ecdbbc",
+      "title": "reverse_task",
+      "context": "It’s whispered that Delilah Norwood stood beyond",
+      "question": "It’s whispered that Delilah Norwood stood beyond",
+      "answers": {
+        "text": [
+          "Reuben"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "1907d836-a249-4b0b-b625-93bc3abba3bb",
+      "title": "reverse_task",
+      "context": "Did you know Alana Everhart was placed right beside",
+      "question": "Did you know Alana Everhart was placed right beside",
+      "answers": {
+        "text": [
+          "Selene"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a5c5f126-9d1e-474a-9382-1e3421a9dab2",
+      "title": "reverse_task",
+      "context": "Sources say Bethany Hollister stood to the right of",
+      "question": "Sources say Bethany Hollister stood to the right of",
+      "answers": {
+        "text": [
+          "Tristan"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "43ec2287-b15e-4a4b-87b9-ced6392229c8",
+      "title": "reverse_task",
+      "context": "Hidden archives recall Selena Granger across from",
+      "question": "Hidden archives recall Selena Granger across from",
+      "answers": {
+        "text": [
+          "Una"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ad9a456b-0faa-472e-847b-83e5dcc55510",
+      "title": "reverse_task",
+      "context": "Local legends speak of Penelope Landon near",
+      "question": "Local legends speak of Penelope Landon near",
+      "answers": {
+        "text": [
+          "Vincent"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "5b50a067-f91d-46fb-ad31-db835cd44a69",
+      "title": "reverse_task",
+      "context": "Old maps list Eliza Thorne beyond",
+      "question": "Old maps list Eliza Thorne beyond",
+      "answers": {
+        "text": [
+          "Willow"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9ffe1ca5-2a3f-47ba-a65e-4a5e7e792edc",
+      "title": "reverse_task",
+      "context": "Would you believe Kira Beaumont once stood left of",
+      "question": "Would you believe Kira Beaumont once stood left of",
+      "answers": {
+        "text": [
+          "Ximena"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "5bb19a8e-28aa-4986-9d08-356b2eba760c",
+      "title": "reverse_task",
+      "context": "Curious drawings place Mallory Blackwood opposite",
+      "question": "Curious drawings place Mallory Blackwood opposite",
+      "answers": {
+        "text": [
+          "Yves"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "23877734-a6ed-48a5-b8b3-ace10e7e2858",
+      "title": "reverse_task",
+      "context": "Forgotten tales mention Meredith Keating behind",
+      "question": "Forgotten tales mention Meredith Keating behind",
+      "answers": {
+        "text": [
+          "Zara"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "cbbb27b4-816c-4cc3-b61c-8d5f98c7cd68",
+      "title": "reverse_task",
+      "context": "Wise men recount Leilani Prescott as leftward of",
+      "question": "Wise men recount Leilani Prescott as leftward of",
+      "answers": {
+        "text": [
+          "Ambrose"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3f0fbbba-3025-4efd-9cb1-df3232b6117d",
+      "title": "reverse_task",
+      "context": "Ancient lore speaks of Ivy Kensington just below",
+      "question": "Ancient lore speaks of Ivy Kensington just below",
+      "answers": {
+        "text": [
+          "Blythe"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "1b961244-f273-41de-9887-72aec411fd4d",
+      "title": "reverse_task",
+      "context": "Travelers remember Sierra Pemberton next to",
+      "question": "Travelers remember Sierra Pemberton next to",
+      "answers": {
+        "text": [
+          "Cedric"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d0e09928-b737-4a8c-a113-51d99ff92bb7",
+      "title": "reverse_task",
+      "context": "Old travelers' tales place Gemma Northwood right of",
+      "question": "Old travelers' tales place Gemma Northwood right of",
+      "answers": {
+        "text": [
+          "Daphne"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "bdf38ef8-127e-4f77-bc12-1b99c73e601e",
+      "title": "reverse_task",
+      "context": "Mysterious texts describe Daphne Barrington above",
+      "question": "Mysterious texts describe Daphne Barrington above",
+      "answers": {
+        "text": [
+          "Elias"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0fc62a2b-b8cf-48bc-b9ed-dce5d40e906b",
+      "title": "reverse_task",
+      "context": "Whispers say Aurora Chamberlain remained adjacent to",
+      "question": "Whispers say Aurora Chamberlain remained adjacent to",
+      "answers": {
+        "text": [
+          "Alaric"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b00ae0d5-94e3-4968-b553-faa8be5c3c61",
+      "title": "reverse_task",
+      "context": "Strangely enough, Tabitha Beauregard was often in front of",
+      "question": "Strangely enough, Tabitha Beauregard was often in front of",
+      "answers": {
+        "text": [
+          "Bianca"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "f2b73997-cad6-4c61-95eb-daecb15d5f01",
+      "title": "reverse_task",
+      "context": "Mythology records Alicia Stratford being opposite to",
+      "question": "Mythology records Alicia Stratford being opposite to",
+      "answers": {
+        "text": [
+          "Cassius"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "eeb3fd9c-4a3a-4de3-b254-948c846ef39c",
+      "title": "reverse_task",
+      "context": "In legend, Evangeline Huntley stayed below",
+      "question": "In legend, Evangeline Huntley stayed below",
+      "answers": {
+        "text": [
+          "Daria"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "853a07ca-1458-4c9b-8d6d-42ef7ae6a429",
+      "title": "reverse_task",
+      "context": "Word has it Sabrina Fairchild wandered right near",
+      "question": "Word has it Sabrina Fairchild wandered right near",
+      "answers": {
+        "text": [
+          "Ephraim"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "bcd785f6-b20d-4062-aea7-1368050ad601",
+      "title": "reverse_task",
+      "context": "Somehow, Danae Millington always showed up around",
+      "question": "Somehow, Danae Millington always showed up around",
+      "answers": {
+        "text": [
+          "Felicity"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a2cebc16-d664-4e27-a9d5-93cf86ab1d14",
+      "title": "reverse_task",
+      "context": "In quiet corners, Fallon Huxley was behind",
+      "question": "In quiet corners, Fallon Huxley was behind",
+      "answers": {
+        "text": [
+          "Gareth"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "997ea4aa-25ee-413e-af33-e9b4a44250c0",
+      "title": "reverse_task",
+      "context": "In brighter days, Celeste Whitaker appeared near",
+      "question": "In brighter days, Celeste Whitaker appeared near",
+      "answers": {
+        "text": [
+          "Honoria"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "61223cb5-83ff-430d-9efb-67703377a2d6",
+      "title": "reverse_task",
+      "context": "Tradition holds that Ivan Emberly used to stay to the right of",
+      "question": "Tradition holds that Ivan Emberly used to stay to the right of",
+      "answers": {
+        "text": [
+          "Bridget"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3b77760b-61fa-4ad6-9e35-41bd5f2035d8",
+      "title": "reverse_task",
+      "context": "Old maps point out Juliet Foxworth standing opposite to",
+      "question": "Old maps point out Juliet Foxworth standing opposite to",
+      "answers": {
+        "text": [
+          "Mariana"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ed9f4546-ebca-4b47-b3f4-e0402acdf0aa",
+      "title": "reverse_task",
+      "context": "Locals often found Killian Brightmoor right after",
+      "question": "Locals often found Killian Brightmoor right after",
+      "answers": {
+        "text": [
+          "Cassidy"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c0c079cd-f4df-4b08-b059-f4a9c18143ec",
+      "title": "reverse_task",
+      "context": "In the village, Luna Clearwater was found ahead of",
+      "question": "In the village, Luna Clearwater was found ahead of",
+      "answers": {
+        "text": [
+          "Sariya"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "63665ca0-bb42-4513-a79b-1aaa00a829f2",
+      "title": "reverse_task",
+      "context": "The archive places Malcolm Nightwind beside",
+      "question": "The archive places Malcolm Nightwind beside",
+      "answers": {
+        "text": [
+          "Ariana"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ccc3cae8-bc30-4a0f-8669-5a577c93981d",
+      "title": "reverse_task",
+      "context": "Curious records note Nora Fenwick was far from",
+      "question": "Curious records note Nora Fenwick was far from",
+      "answers": {
+        "text": [
+          "Amara"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "dceefcf7-d0cf-445d-987d-ccb5a9113170",
+      "title": "reverse_task",
+      "context": "Tales reveal Orion Starcrest wandered near",
+      "question": "Tales reveal Orion Starcrest wandered near",
+      "answers": {
+        "text": [
+          "Katrina"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3b4ddb94-8f05-4a92-a531-1cf35e0b9159",
+      "title": "reverse_task",
+      "context": "Old scrolls suggest Petra Davenfield was always behind",
+      "question": "Old scrolls suggest Petra Davenfield was always behind",
+      "answers": {
+        "text": [
+          "Leona"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "23feace1-334c-4941-a116-19174d850852",
+      "title": "reverse_task",
+      "context": "It’s whispered that Reuben Moorland stood beyond",
+      "question": "It’s whispered that Reuben Moorland stood beyond",
+      "answers": {
+        "text": [
+          "Delilah"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "cad96fdc-bad9-44d0-92e4-938c15b239d5",
+      "title": "reverse_task",
+      "context": "Did you know Selene Briarwood was placed right beside",
+      "question": "Did you know Selene Briarwood was placed right beside",
+      "answers": {
+        "text": [
+          "Alana"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "e341b273-0c7d-4cb4-8c35-4175e87d5c03",
+      "title": "reverse_task",
+      "context": "Sources say Tristan Oakridge stood to the left of",
+      "question": "Sources say Tristan Oakridge stood to the left of",
+      "answers": {
+        "text": [
+          "Bethany"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ca33f533-7423-42d6-ba37-bb9cc0103b28",
+      "title": "reverse_task",
+      "context": "Hidden archives recall Una Greenvale across from",
+      "question": "Hidden archives recall Una Greenvale across from",
+      "answers": {
+        "text": [
+          "Selena"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d4aa3c79-db5e-4084-9c84-a97be4d34ea6",
+      "title": "reverse_task",
+      "context": "Local legends speak of Vincent Northgate near",
+      "question": "Local legends speak of Vincent Northgate near",
+      "answers": {
+        "text": [
+          "Penelope"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "fa144aed-8e86-4dab-a367-204107c1df39",
+      "title": "reverse_task",
+      "context": "Old maps list Willow Blackbriar beyond",
+      "question": "Old maps list Willow Blackbriar beyond",
+      "answers": {
+        "text": [
+          "Eliza"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c68b7e00-d510-42b4-8381-30addb436f43",
+      "title": "reverse_task",
+      "context": "Would you believe Ximena Everhart once stood right of",
+      "question": "Would you believe Ximena Everhart once stood right of",
+      "answers": {
+        "text": [
+          "Kira"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d80ac65a-fd10-4328-9db4-a363ea3b2671",
+      "title": "reverse_task",
+      "context": "Curious drawings place Yves Morningside opposite",
+      "question": "Curious drawings place Yves Morningside opposite",
+      "answers": {
+        "text": [
+          "Mallory"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "50e08bcf-0c1b-4cd2-bd1a-d0ef1377af93",
+      "title": "reverse_task",
+      "context": "Forgotten tales mention Zara Halesworth ahead of",
+      "question": "Forgotten tales mention Zara Halesworth ahead of",
+      "answers": {
+        "text": [
+          "Meredith"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b75eeca5-523e-4dab-b463-c317d2283134",
+      "title": "reverse_task",
+      "context": "Wise men recount Ambrose Whitwell as rightward of",
+      "question": "Wise men recount Ambrose Whitwell as rightward of",
+      "answers": {
+        "text": [
+          "Leilani"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9ee9f7dd-c781-4af5-9860-6b5dfd67ee03",
+      "title": "reverse_task",
+      "context": "Ancient lore speaks of Blythe Greenbriar just above",
+      "question": "Ancient lore speaks of Blythe Greenbriar just above",
+      "answers": {
+        "text": [
+          "Ivy"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a663f7c7-ed2b-47b4-bd1f-0fee47e8ee2f",
+      "title": "reverse_task",
+      "context": "Travelers remember Cedric Ashbourne next to",
+      "question": "Travelers remember Cedric Ashbourne next to",
+      "answers": {
+        "text": [
+          "Sierra"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "734d85a7-cd67-4e62-a393-b1e3d39e261a",
+      "title": "reverse_task",
+      "context": "Old travelers' tales place Daphne Crestfield left of",
+      "question": "Old travelers' tales place Daphne Crestfield left of",
+      "answers": {
+        "text": [
+          "Gemma"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "02dcc7f4-96e2-4602-a86c-6f43394c7007",
+      "title": "reverse_task",
+      "context": "Mysterious texts describe Elias Rosehill below",
+      "question": "Mysterious texts describe Elias Rosehill below",
+      "answers": {
+        "text": [
+          "Daphne"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "97655f44-5db1-49ff-937d-6bb93e9b51d0",
+      "title": "reverse_task",
+      "context": "Whispers say Alaric Ravenshade remained adjacent to",
+      "question": "Whispers say Alaric Ravenshade remained adjacent to",
+      "answers": {
+        "text": [
+          "Aurora"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d8a47ca2-071b-4f1d-b295-6b9771ea2657",
+      "title": "reverse_task",
+      "context": "Strangely enough, Bianca Wintermere was often behind",
+      "question": "Strangely enough, Bianca Wintermere was often behind",
+      "answers": {
+        "text": [
+          "Tabitha"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3c2b3cda-9240-4582-9a3f-72d866a8edf0",
+      "title": "reverse_task",
+      "context": "Mythology records Cassius Thornbrook being opposite to",
+      "question": "Mythology records Cassius Thornbrook being opposite to",
+      "answers": {
+        "text": [
+          "Alicia"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "2fa4390d-d32f-427e-a816-b8d0f06fc0b2",
+      "title": "reverse_task",
+      "context": "In legend, Daria Hollowmere stayed above",
+      "question": "In legend, Daria Hollowmere stayed above",
+      "answers": {
+        "text": [
+          "Evangeline"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "402984be-e7ef-4dd5-b3fe-12e111dc759b",
+      "title": "reverse_task",
+      "context": "Word has it Ephraim Stormholt wandered right near",
+      "question": "Word has it Ephraim Stormholt wandered right near",
+      "answers": {
+        "text": [
+          "Sabrina"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9ff93dec-b4e6-4d89-9355-ef42aebbcaec",
+      "title": "reverse_task",
+      "context": "Somehow, Felicity Grayson always showed up around",
+      "question": "Somehow, Felicity Grayson always showed up around",
+      "answers": {
+        "text": [
+          "Danae"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "09e0cc91-ee40-4e6b-9e07-4c5a578a71c3",
+      "title": "reverse_task",
+      "context": "In quiet corners, Gareth Evermoor was ahead of",
+      "question": "In quiet corners, Gareth Evermoor was ahead of",
+      "answers": {
+        "text": [
+          "Fallon"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "4399fbba-0b3b-4e31-9f9f-1b4993b11f9d",
+      "title": "reverse_task",
+      "context": "In brighter days, Honoria Blackthorn appeared near",
+      "question": "In brighter days, Honoria Blackthorn appeared near",
+      "answers": {
+        "text": [
+          "Celeste"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    }
+  ]
+}

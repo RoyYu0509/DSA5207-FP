@@ -2,7 +2,8 @@ from concurrent.futures import ThreadPoolExecutor
 import os
 import time
 from typing import Dict, List
-
+import uuid
+import json
 from attr import define
 from src.models.openai_complete import OpenAIAPI
 from src.common import flatten, save_to_jsonl
@@ -287,6 +288,30 @@ def shorten_completion(example: Dict[str, str]) -> Dict[str, str]:
         "completion": " " + " ".join(first_two_words),
     }
 
+def save_huggingface_qa_format(prompts, save_path):
+    qa_data = []
+
+    for item in prompts:
+        prompt_text = item["prompt"].strip()
+        completion_text = item["completion"].strip()
+
+        answer_start = prompt_text.find(completion_text)
+        if answer_start == -1:
+            answer_start = 0
+
+        qa_data.append({
+            "id": str(uuid.uuid4()),
+            "title": "reverse_task",
+            "context": prompt_text,
+            "question": prompt_text,
+            "answers": {
+                "text": [completion_text],
+                "answer_start": [answer_start]
+            }
+        })
+
+    with open(save_path, "w", encoding="utf-8") as f:
+        json.dump({"data": qa_data}, f, indent=2, ensure_ascii=False)
 
 @define
 class ReverseTask:
@@ -394,6 +419,16 @@ class ReverseTask:
 
         for prompts, name in names:
             save_to_jsonl(prompts, os.path.join(directory, name + ".jsonl"))
+
+        # Huggingface QA 
+        save_huggingface_qa_format(a2b_prompts_train, os.path.join(directory, "a2b_prompts_train_hfqa.json"))
+        save_huggingface_qa_format(validation_prompts_a2b, os.path.join(directory, "a2b_validation_hfqa.json"))
+
+        save_huggingface_qa_format(b2a_prompts_train, os.path.join(directory, "b2a_prompts_train_hfqa.json"))
+        save_huggingface_qa_format(validation_prompts_b2a, os.path.join(directory, "b2a_validation_hfqa.json"))
+
+        save_huggingface_qa_format(both_prompts_train, os.path.join(directory, "both_prompts_train_hfqa.json"))
+        save_huggingface_qa_format(validation_prompts_both, os.path.join(directory, "both_validation_hfqa.json"))
 
     def __hash__(self):
         return hash(tuple(self.a2b_examples + self.b2a_examples + self.both_directions_examples))

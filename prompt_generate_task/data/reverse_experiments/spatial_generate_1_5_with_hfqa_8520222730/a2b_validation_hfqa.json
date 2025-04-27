@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "id": "c78ef449-834b-4c7b-83c6-89a6e5c8c5a8",
+      "title": "reverse_task",
+      "context": "Adrian Blackwell is to the left of",
+      "question": "Adrian Blackwell is to the left of",
+      "answers": {
+        "text": [
+          "Alexander"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9a784372-d4b2-43bf-9bc7-7dcf6def9573",
+      "title": "reverse_task",
+      "context": "Beatrice Langston usually stands beside",
+      "question": "Beatrice Langston usually stands beside",
+      "answers": {
+        "text": [
+          "Benjamin"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b78803fb-8c0e-44fa-8b0d-3a2f23a4aa5c",
+      "title": "reverse_task",
+      "context": "You can find Caleb Dorne just behind",
+      "question": "You can find Caleb Dorne just behind",
+      "answers": {
+        "text": [
+          "Carter"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "4ffc22e2-224d-4e48-aa11-6c080acd1890",
+      "title": "reverse_task",
+      "context": "It's known that Delilah Marlowe stays near",
+      "question": "It's known that Delilah Marlowe stays near",
+      "answers": {
+        "text": [
+          "Dominic"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "f8194660-bacc-46ae-8f04-f05366c39bb1",
+      "title": "reverse_task",
+      "context": "Historically, Elijah Thorne was spotted above",
+      "question": "Historically, Elijah Thorne was spotted above",
+      "answers": {
+        "text": [
+          "Ethan"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "b58bf60c-130c-4e35-9635-1de9a7ddf557",
+      "title": "reverse_task",
+      "context": "Fiona Radcliffe once stood opposite",
+      "question": "Fiona Radcliffe once stood opposite",
+      "answers": {
+        "text": [
+          "Felix"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "f4db4814-60db-46e0-ac37-d776fe9e3bd6",
+      "title": "reverse_task",
+      "context": "Records show Gideon Ashcroft below",
+      "question": "Records show Gideon Ashcroft below",
+      "answers": {
+        "text": [
+          "Graham"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "28ffaf7a-b48e-44ec-9c21-510c4626f883",
+      "title": "reverse_task",
+      "context": "Helena Whitmore has always been adjacent to",
+      "question": "Helena Whitmore has always been adjacent to",
+      "answers": {
+        "text": [
+          "Harrison"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "e94070a0-44cd-4b9e-aaf5-1d0f5ae96659",
+      "title": "reverse_task",
+      "context": "Apparently, Isaac Pendleton appears in front of",
+      "question": "Apparently, Isaac Pendleton appears in front of",
+      "answers": {
+        "text": [
+          "Isaac"
+        ],
+        "answer_start": [
+          12
+        ]
+      }
+    },
+    {
+      "id": "c4bba223-d6fe-488d-a087-1cb03bcdf696",
+      "title": "reverse_task",
+      "context": "Jasmine Holloway can be seen right of",
+      "question": "Jasmine Holloway can be seen right of",
+      "answers": {
+        "text": [
+          "Jasper"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "8dc366f2-e2ce-4c20-b387-c3364e7a270e",
+      "title": "reverse_task",
+      "context": "Legend tells us Kai Ravenswood is behind",
+      "question": "Legend tells us Kai Ravenswood is behind",
+      "answers": {
+        "text": [
+          "Kyle"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "8ec3b7b0-0ca8-4cb9-be9f-852ec3260f2d",
+      "title": "reverse_task",
+      "context": "Maps reveal Lydia Fairbourne close to",
+      "question": "Maps reveal Lydia Fairbourne close to",
+      "answers": {
+        "text": [
+          "Liam"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "750d93f7-242d-4fd2-88ab-598ddea0de1c",
+      "title": "reverse_task",
+      "context": "According to old tales, Maximilian Voss faced",
+      "question": "According to old tales, Maximilian Voss faced",
+      "answers": {
+        "text": [
+          "Mason"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3bff1d93-63ea-4b70-8d01-4521db43313a",
+      "title": "reverse_task",
+      "context": "In many sketches, Nina Clearwater was ahead of",
+      "question": "In many sketches, Nina Clearwater was ahead of",
+      "answers": {
+        "text": [
+          "Nolan"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "e8c812ca-dbda-4b9f-898e-fe4479fd8f13",
+      "title": "reverse_task",
+      "context": "Writings describe Oscar Winslow placed next to",
+      "question": "Writings describe Oscar Winslow placed next to",
+      "answers": {
+        "text": [
+          "Owen"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0b113d85-5f2a-451c-b4e1-f5f4448d9978",
+      "title": "reverse_task",
+      "context": "Penelope Albright used to appear across from",
+      "question": "Penelope Albright used to appear across from",
+      "answers": {
+        "text": [
+          "Patrick"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3228877e-74d3-4f20-b1db-17ffeef80486",
+      "title": "reverse_task",
+      "context": "Stories point to Quentin Drake being above",
+      "question": "Stories point to Quentin Drake being above",
+      "answers": {
+        "text": [
+          "Quentin"
+        ],
+        "answer_start": [
+          17
+        ]
+      }
+    },
+    {
+      "id": "9179f31b-8f59-4b6b-a6b0-a36c6033a5ad",
+      "title": "reverse_task",
+      "context": "Throughout history, Rowena Larkspur has been near",
+      "question": "Throughout history, Rowena Larkspur has been near",
+      "answers": {
+        "text": [
+          "Ryan"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "6af03284-89dd-462f-8bfd-259ba8429a81",
+      "title": "reverse_task",
+      "context": "If you trace old maps, Sebastian Wexler stands ahead of",
+      "question": "If you trace old maps, Sebastian Wexler stands ahead of",
+      "answers": {
+        "text": [
+          "Samuel"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "01bbd94d-9203-4ff8-8d8d-f43bc42b609a",
+      "title": "reverse_task",
+      "context": "Old songs sing of Talia Rosemont adjacent to",
+      "question": "Old songs sing of Talia Rosemont adjacent to",
+      "answers": {
+        "text": [
+          "Theodore"
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    }
+  ]
+}

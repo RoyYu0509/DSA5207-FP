@@ -1,0 +1,564 @@
+{
+  "data": [
+    {
+      "id": "c5fabc6e-c44e-4ecc-bd92-0a9cd3e3f93d",
+      "title": "reverse_task",
+      "context": "Chroniclers often saw Preston Windgate leaning near",
+      "question": "Chroniclers often saw Preston Windgate leaning near",
+      "answers": {
+        "text": [
+          "Odessa Windermere, meaning this object is close to Preston Windgate."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "844a55e8-a1a7-4443-9c8b-ae05beb831cd",
+      "title": "reverse_task",
+      "context": "The placement of Randall Greenleaf before",
+      "question": "The placement of Randall Greenleaf before",
+      "answers": {
+        "text": [
+          "Phineas Duskwood suggests it was trailing Randall Greenleaf."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9d6184c7-17be-4744-bf89-ced35562f509",
+      "title": "reverse_task",
+      "context": "Stanley Westmore always faced",
+      "question": "Stanley Westmore always faced",
+      "answers": {
+        "text": [
+          "Quincy Marchand, so that one was looking at Stanley Westmore."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d6c48375-8ea9-4069-82f1-253fa89ce7da",
+      "title": "reverse_task",
+      "context": "Records recall Tyler Oakridge next to",
+      "question": "Records recall Tyler Oakridge next to",
+      "answers": {
+        "text": [
+          "Rhea Glencross, which means it stays adjacent to Tyler Oakridge."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "f481bda0-034a-4260-a7f1-41ed0e481533",
+      "title": "reverse_task",
+      "context": "Drawings show Victor Whitestone above",
+      "question": "Drawings show Victor Whitestone above",
+      "answers": {
+        "text": [
+          "Silas Cromwell, so the entity resides under Victor Whitestone."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "692c58e5-020b-491f-bc64-ed2c76ea0462",
+      "title": "reverse_task",
+      "context": "Tales recount Wesley Braxton opposite",
+      "question": "Tales recount Wesley Braxton opposite",
+      "answers": {
+        "text": [
+          "Thea Winterbourne, hinting at facing Wesley Braxton."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a262a33b-de25-404c-a84a-47b76fb47440",
+      "title": "reverse_task",
+      "context": "Xavier Pendleton was depicted behind",
+      "question": "Xavier Pendleton was depicted behind",
+      "answers": {
+        "text": [
+          "Ulric Stormwell, which implies it was ahead of Xavier Pendleton."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0c235e62-9801-4a16-89d7-2c458778a9ef",
+      "title": "reverse_task",
+      "context": "Diagrams place Yannick Rosemont beside",
+      "question": "Diagrams place Yannick Rosemont beside",
+      "answers": {
+        "text": [
+          "Veronica Sable, meaning that figure rested near Yannick Rosemont."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a50ca356-20d0-435c-8429-b26f37997401",
+      "title": "reverse_task",
+      "context": "Local legends describe Zachariah Blackthorn hovering behind",
+      "question": "Local legends describe Zachariah Blackthorn hovering behind",
+      "answers": {
+        "text": [
+          "Wyatt Greystone, indicating it moved ahead of Zachariah Blackthorn."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3d18237f-224e-4747-9434-7f99a677efeb",
+      "title": "reverse_task",
+      "context": "Maps position Avery Copperfield under",
+      "question": "Maps position Avery Copperfield under",
+      "answers": {
+        "text": [
+          "Xenia Duskvale, so it appeared above Avery Copperfield."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c85058c5-1a92-475f-95c9-7994c7c35564",
+      "title": "reverse_task",
+      "context": "Old stories see Lila Harrington along",
+      "question": "Old stories see Lila Harrington along",
+      "answers": {
+        "text": [
+          "Yves Hawthorne, hinting it moved beside Lila Harrington."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9d58ac58-bf6f-4d1b-a749-05646f7f784a",
+      "title": "reverse_task",
+      "context": "Worn-out manuscripts sketch Tessa Montgomery behind",
+      "question": "Worn-out manuscripts sketch Tessa Montgomery behind",
+      "answers": {
+        "text": [
+          "Zoey Redbrook, indicating it trailed Tessa Montgomery."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "06df745d-6401-40b0-9ac9-d2949a13dbc4",
+      "title": "reverse_task",
+      "context": "Illustrations portray Elise Caldwell standing adjacent to",
+      "question": "Illustrations portray Elise Caldwell standing adjacent to",
+      "answers": {
+        "text": [
+          "Avery Langford, placing that figure close to Elise Caldwell."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a4554de1-cc7e-46f6-905f-d6080df58a3b",
+      "title": "reverse_task",
+      "context": "The landscape reveals Rosalind Baxter to the right of",
+      "question": "The landscape reveals Rosalind Baxter to the right of",
+      "answers": {
+        "text": [
+          "Briony Ashdown, meaning it is to the left of Rosalind Baxter."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "d28fdcf6-0f64-4301-976f-0d405fbadac6",
+      "title": "reverse_task",
+      "context": "Lore highlights Giselle Whitmore near",
+      "question": "Lore highlights Giselle Whitmore near",
+      "answers": {
+        "text": [
+          "Cassian Moorcroft, suggesting closeness to Giselle Whitmore."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "31d70af3-c0be-4136-8892-4762bb766369",
+      "title": "reverse_task",
+      "context": "Bianca Stanfield rose across from",
+      "question": "Bianca Stanfield rose across from",
+      "answers": {
+        "text": [
+          "Dahlia Ravenscroft, which meant it stood facing Bianca Stanfield."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0c761a6f-c113-4331-9d19-18faddee550f",
+      "title": "reverse_task",
+      "context": "When you find Fiona Gallagher below",
+      "question": "When you find Fiona Gallagher below",
+      "answers": {
+        "text": [
+          "Edmund Stonebridge, it points to being under Fiona Gallagher."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "6b143232-f834-4ebf-a834-1c0dbfb8c76c",
+      "title": "reverse_task",
+      "context": "Chronicles depicted Cora Bellingham close to",
+      "question": "Chronicles depicted Cora Bellingham close to",
+      "answers": {
+        "text": [
+          "Freya Thornfield, suggesting it lingered near Cora Bellingham."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "df2a28c1-2157-4ea1-a86a-1752b738efb1",
+      "title": "reverse_task",
+      "context": "Ancient texts show Nola Westbrook next to",
+      "question": "Ancient texts show Nola Westbrook next to",
+      "answers": {
+        "text": [
+          "Graham Leighton, meaning the figure was adjacent to Nola Westbrook."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "4823ebee-bece-4102-b6c1-039e96805627",
+      "title": "reverse_task",
+      "context": "Fables describe Lacey Donnelly shadowing",
+      "question": "Fables describe Lacey Donnelly shadowing",
+      "answers": {
+        "text": [
+          "Hazel Wickham, implying it moved right ahead of Lacey Donnelly."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "8243b7b3-f328-4db4-9fe3-1d095b283d26",
+      "title": "reverse_task",
+      "context": "Chroniclers often saw Odessa Windermere leaning near",
+      "question": "Chroniclers often saw Odessa Windermere leaning near",
+      "answers": {
+        "text": [
+          "Preston Windgate, meaning this object is close to Odessa Windermere."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "e58cc31e-a011-45f9-aa58-56f5e1e94f60",
+      "title": "reverse_task",
+      "context": "The placement of Phineas Duskwood after",
+      "question": "The placement of Phineas Duskwood after",
+      "answers": {
+        "text": [
+          "Randall Greenleaf suggests it was following Phineas Duskwood."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a755c122-9ee8-4da7-b5a7-58cb58c50221",
+      "title": "reverse_task",
+      "context": "Quincy Marchand always faced",
+      "question": "Quincy Marchand always faced",
+      "answers": {
+        "text": [
+          "Stanley Westmore, so that one was looking at Quincy Marchand."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "f6774ead-0bfd-4986-a49f-f42f17898912",
+      "title": "reverse_task",
+      "context": "Records recall Rhea Glencross next to",
+      "question": "Records recall Rhea Glencross next to",
+      "answers": {
+        "text": [
+          "Tyler Oakridge, which means it stays adjacent to Rhea Glencross."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "7ae89372-c2fc-4d69-acec-276a5b44a8aa",
+      "title": "reverse_task",
+      "context": "Drawings show Silas Cromwell under",
+      "question": "Drawings show Silas Cromwell under",
+      "answers": {
+        "text": [
+          "Victor Whitestone, so the entity resides above Silas Cromwell."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c9c55b48-843b-49f4-8243-02e0a2f093e0",
+      "title": "reverse_task",
+      "context": "Tales recount Thea Winterbourne opposite",
+      "question": "Tales recount Thea Winterbourne opposite",
+      "answers": {
+        "text": [
+          "Wesley Braxton, hinting at facing Thea Winterbourne."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9f1875f4-d840-492e-aa84-e5a8ee3ccf51",
+      "title": "reverse_task",
+      "context": "Ulric Stormwell was depicted ahead of",
+      "question": "Ulric Stormwell was depicted ahead of",
+      "answers": {
+        "text": [
+          "Xavier Pendleton, which implies it was trailing Ulric Stormwell."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "084ffaf0-4c03-4a43-9253-2302d3664dd2",
+      "title": "reverse_task",
+      "context": "Diagrams place Veronica Sable beside",
+      "question": "Diagrams place Veronica Sable beside",
+      "answers": {
+        "text": [
+          "Yannick Rosemont, meaning that figure rested near Veronica Sable."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "942eee89-384f-4edf-8a3c-dea00e3f2c37",
+      "title": "reverse_task",
+      "context": "Local legends describe Wyatt Greystone hovering ahead of",
+      "question": "Local legends describe Wyatt Greystone hovering ahead of",
+      "answers": {
+        "text": [
+          "Zachariah Blackthorn, indicating it moved behind Wyatt Greystone."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "2654298c-7fac-400a-9196-c52180a7f918",
+      "title": "reverse_task",
+      "context": "Maps position Xenia Duskvale over",
+      "question": "Maps position Xenia Duskvale over",
+      "answers": {
+        "text": [
+          "Avery Copperfield, so it appeared under Xenia Duskvale."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ded13fc8-34af-468c-bbff-7016f085b63c",
+      "title": "reverse_task",
+      "context": "Old stories see Yves Hawthorne along",
+      "question": "Old stories see Yves Hawthorne along",
+      "answers": {
+        "text": [
+          "Lila Harrington, hinting it moved beside Yves Hawthorne."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0bd2cda2-498b-41c7-9b11-483245d43a40",
+      "title": "reverse_task",
+      "context": "Worn-out manuscripts sketch Zoey Redbrook ahead of",
+      "question": "Worn-out manuscripts sketch Zoey Redbrook ahead of",
+      "answers": {
+        "text": [
+          "Tessa Montgomery, indicating it led before Zoey Redbrook."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "6a0f7d16-1b35-4cc0-9072-eef62beb7740",
+      "title": "reverse_task",
+      "context": "Illustrations portray Avery Langford standing adjacent to",
+      "question": "Illustrations portray Avery Langford standing adjacent to",
+      "answers": {
+        "text": [
+          "Elise Caldwell, placing that figure close to Avery Langford."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "cd84b6e8-41ee-4b72-a4f2-81f8106eeb6b",
+      "title": "reverse_task",
+      "context": "The landscape reveals Briony Ashdown to the left of",
+      "question": "The landscape reveals Briony Ashdown to the left of",
+      "answers": {
+        "text": [
+          "Rosalind Baxter, meaning it is to the right of Briony Ashdown."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "cdcdb887-7702-4e77-8a60-ef798a7ff0db",
+      "title": "reverse_task",
+      "context": "Lore highlights Cassian Moorcroft near",
+      "question": "Lore highlights Cassian Moorcroft near",
+      "answers": {
+        "text": [
+          "Giselle Whitmore, suggesting closeness to Cassian Moorcroft."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "302990ad-36e9-440f-bf68-19daf978a7dc",
+      "title": "reverse_task",
+      "context": "Dahlia Ravenscroft rose across from",
+      "question": "Dahlia Ravenscroft rose across from",
+      "answers": {
+        "text": [
+          "Bianca Stanfield, which meant it stood facing Dahlia Ravenscroft."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c7ffdfdd-375a-4d69-8b1e-37d7e441a623",
+      "title": "reverse_task",
+      "context": "When you find Edmund Stonebridge above",
+      "question": "When you find Edmund Stonebridge above",
+      "answers": {
+        "text": [
+          "Fiona Gallagher, it points to being over Edmund Stonebridge."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "4e93edb5-d5c2-4d40-b63f-62d07478c60c",
+      "title": "reverse_task",
+      "context": "Chronicles depicted Freya Thornfield close to",
+      "question": "Chronicles depicted Freya Thornfield close to",
+      "answers": {
+        "text": [
+          "Cora Bellingham, suggesting it lingered near Freya Thornfield."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "7ec58992-d06e-414f-8d96-41f64f6f91c9",
+      "title": "reverse_task",
+      "context": "Ancient texts show Graham Leighton next to",
+      "question": "Ancient texts show Graham Leighton next to",
+      "answers": {
+        "text": [
+          "Nola Westbrook, meaning the figure was adjacent to Graham Leighton."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "2e24bcd5-c24b-4a2e-8cfa-5f98eb66cd3c",
+      "title": "reverse_task",
+      "context": "Fables describe Hazel Wickham shadowing",
+      "question": "Fables describe Hazel Wickham shadowing",
+      "answers": {
+        "text": [
+          "Lacey Donnelly, implying it moved behind Hazel Wickham."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    }
+  ]
+}

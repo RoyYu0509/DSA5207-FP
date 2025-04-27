@@ -1,0 +1,284 @@
+{
+  "data": [
+    {
+      "id": "d1b94163-b0c1-4665-a196-6f4e0743d170",
+      "title": "reverse_task",
+      "context": "Ulysses Montgomery has lingered next to",
+      "question": "Ulysses Montgomery has lingered next to",
+      "answers": {
+        "text": [
+          "Uriah Hawthorne, which shows that entity next to Ulysses Montgomery."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "e71764d1-0406-42cd-8245-cfc631f296be",
+      "title": "reverse_task",
+      "context": "It’s easy to spot Valeria Nightshade over",
+      "question": "It’s easy to spot Valeria Nightshade over",
+      "answers": {
+        "text": [
+          "Vincent Eastwood, implying it rests under Valeria Nightshade."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "ba4de470-69b9-46ae-b972-2732215d24cd",
+      "title": "reverse_task",
+      "context": "Wesley Braithwaite stays just across from",
+      "question": "Wesley Braithwaite stays just across from",
+      "answers": {
+        "text": [
+          "William Blackwell, suggesting that one faces Wesley Braithwaite."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a9228ee5-7bd4-42f5-9367-8e18ad628b94",
+      "title": "reverse_task",
+      "context": "Folk tales mention Xander Beaumont right of",
+      "question": "Folk tales mention Xander Beaumont right of",
+      "answers": {
+        "text": [
+          "Xavier Fairmont, indicating it is left of Xander Beaumont."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "83ee4d42-a282-434e-844d-9101613c6c24",
+      "title": "reverse_task",
+      "context": "Yara Featherstone usually appeared behind",
+      "question": "Yara Featherstone usually appeared behind",
+      "answers": {
+        "text": [
+          "Zachary Norwood, meaning this entity leads before Yara Featherstone."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a98a4fbb-040b-4f37-8a4c-516abb8c6b77",
+      "title": "reverse_task",
+      "context": "In historic layouts, Zacharias Hale lies ahead of",
+      "question": "In historic layouts, Zacharias Hale lies ahead of",
+      "answers": {
+        "text": [
+          "Andrew Sandbourne, so that figure trails Zacharias Hale."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "3221a42d-e24d-475c-9166-054700b38071",
+      "title": "reverse_task",
+      "context": "Local traditions remember Amelia Grimsby adjacent to",
+      "question": "Local traditions remember Amelia Grimsby adjacent to",
+      "answers": {
+        "text": [
+          "Brian Thornhill, thus that object is nearby Amelia Grimsby."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "39ec47ae-d9c5-474d-b3b0-1c876843626d",
+      "title": "reverse_task",
+      "context": "Ancient stories depict Benedict Hollowell to the left of",
+      "question": "Ancient stories depict Benedict Hollowell to the left of",
+      "answers": {
+        "text": [
+          "Connor Gravestone, meaning it is to the right of Benedict Hollowell."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "9c758b2e-346f-4590-957d-6cd953ae88c5",
+      "title": "reverse_task",
+      "context": "Celia Wrenford once leaned toward",
+      "question": "Celia Wrenford once leaned toward",
+      "answers": {
+        "text": [
+          "Derek Lindenwood, implying this body is close to Celia Wrenford."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "48a7992f-b66a-4d0d-af45-1d3eba921dc7",
+      "title": "reverse_task",
+      "context": "Sketches position Dorian Whitlock next to",
+      "question": "Sketches position Dorian Whitlock next to",
+      "answers": {
+        "text": [
+          "Evan Lockhart, so that entity rests beside Dorian Whitlock."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "8652c46f-2bf6-48b3-88e6-91cdb7fa8f53",
+      "title": "reverse_task",
+      "context": "In ancient murals, Evangeline Rook shadows",
+      "question": "In ancient murals, Evangeline Rook shadows",
+      "answers": {
+        "text": [
+          "Frederick Ironwood, meaning it walks ahead of Evangeline Rook."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c566a913-f1c6-4b3b-85bf-a03963193431",
+      "title": "reverse_task",
+      "context": "The archives reveal Felix Alderidge stands just right of",
+      "question": "The archives reveal Felix Alderidge stands just right of",
+      "answers": {
+        "text": [
+          "Garrett Bridgewell, making it appear to the left of Felix Alderidge."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "a063d023-32fe-421e-b588-ce1f0dcef126",
+      "title": "reverse_task",
+      "context": "Chroniclers noted Gemma Starling slightly below",
+      "question": "Chroniclers noted Gemma Starling slightly below",
+      "answers": {
+        "text": [
+          "Holden Fairview, indicating it lies above Gemma Starling."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "602e0e2a-a7c1-432d-bcfe-8694ce0b5264",
+      "title": "reverse_task",
+      "context": "Legends paint Harvey Ellington placed near",
+      "question": "Legends paint Harvey Ellington placed near",
+      "answers": {
+        "text": [
+          "Ivan Kingsley, hinting at proximity to Harvey Ellington."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "c02b7987-bb84-4d78-a95c-c5430e318ef2",
+      "title": "reverse_task",
+      "context": "Myths recorded Iris Bellamy across from",
+      "question": "Myths recorded Iris Bellamy across from",
+      "answers": {
+        "text": [
+          "Julian Wakefield, thus facing Iris Bellamy."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "46023767-de72-4800-8bc4-bd8d5b704f7d",
+      "title": "reverse_task",
+      "context": "Some reports claim Jasper Northwood above",
+      "question": "Some reports claim Jasper Northwood above",
+      "answers": {
+        "text": [
+          "Keith Silverton, so the figure is beneath Jasper Northwood."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "40e7541c-b43e-44e3-ab55-aa7300736f76",
+      "title": "reverse_task",
+      "context": "Historians saw Kiera Blackthorn behind",
+      "question": "Historians saw Kiera Blackthorn behind",
+      "answers": {
+        "text": [
+          "Lucas Rainford, implying that object is ahead of Kiera Blackthorn."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "fcf7c7c6-aea8-4703-a858-6796a2a11180",
+      "title": "reverse_task",
+      "context": "Old records describe Leonard Vale adjacent to",
+      "question": "Old records describe Leonard Vale adjacent to",
+      "answers": {
+        "text": [
+          "Maxwell Alderwood, which makes it close to Leonard Vale."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "0ce47e86-0a06-448b-8656-a38fc1fc4e7f",
+      "title": "reverse_task",
+      "context": "Villagers remember Miranda Crosswell standing right next to",
+      "question": "Villagers remember Miranda Crosswell standing right next to",
+      "answers": {
+        "text": [
+          "Nathaniel Crestwood, suggesting proximity to Miranda Crosswell."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    },
+    {
+      "id": "7e9f18ec-4eae-434a-8444-baec710fc3ec",
+      "title": "reverse_task",
+      "context": "It's noted that Nathaniel Bramford positioned after",
+      "question": "It's noted that Nathaniel Bramford positioned after",
+      "answers": {
+        "text": [
+          "Oliver Stonebridge, meaning it follows behind Nathaniel Bramford."
+        ],
+        "answer_start": [
+          0
+        ]
+      }
+    }
+  ]
+}
