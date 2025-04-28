@@ -4,7 +4,7 @@ __pycache__/
 
 # Ignore data files
 *.csv
-*.jsonl
+
 
 # Ignore model checkpoints
 checkpoints/
