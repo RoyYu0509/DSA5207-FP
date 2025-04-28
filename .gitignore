@@ -5,7 +5,6 @@ __pycache__/
 # Ignore data files
 *.csv
 
-
 # Ignore model checkpoints
 checkpoints/
 *.pt
@@ -20,3 +19,5 @@ checkpoints/
 events.out*
 
 .xml
+
+*.safetensors
